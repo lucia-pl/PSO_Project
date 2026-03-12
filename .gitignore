@@ -1,3 +1,17 @@
+#Archivos
+ejecutar.txt
+POR_HACER.txt
+
+
+#Archivos de versiones
+versions/v0/main_pruebasv0.py
+versions/v0/particle_v0.py
+versions/v0/pso_v0.py
+versions/v1/main_pruebasv1.py
+versions/v1/particle_v1.py
+versions/v1/pso_v1.py
+versions/v1/swarm_v1.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +219,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+

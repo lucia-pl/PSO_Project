@@ -1,1 +1,10 @@
-
+{
+    "num_particles":30,
+    "dim":2,
+    "upper_bound":5,
+    "lower_bound":-5,
+    "w":0.7,
+    "c1":1.5,
+    "c2":1.5,
+    "max_iters":100
+}
