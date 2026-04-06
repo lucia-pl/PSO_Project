@@ -10,6 +10,7 @@ def sphere(x: Vector) -> float:
     """
     return sum(xi**2 for xi in x)
 
+
 def rastrigin(x: Vector) -> float:
     """
     Non-convex, multimodal (multiple local minimums) function used to test performance in optimization.
@@ -18,6 +19,7 @@ def rastrigin(x: Vector) -> float:
     """
     d = len(x)
     return (10.0*d + sum(xi*xi - 10.0*cos(2.0*pi*xi) for xi in x))
+
 
 def ackley(x: Vector) -> float:
     """
@@ -39,6 +41,7 @@ def ackley(x: Vector) -> float:
     cos_part = -exp(sum_cos/n)
 
     return sq_part + cos_part + 20.0 + exp(1.0)
+
 
 def rosenbrock(x: Vector) -> float:
     """

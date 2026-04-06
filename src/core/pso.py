@@ -59,4 +59,4 @@ class PSO:
                 c2=self.c2
             )
 
-        return s.global_best_position, s.global_best_fitness
+        return s.global_best_position, s.global_best_fitness, s.global_best_history

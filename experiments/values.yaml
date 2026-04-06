@@ -1,0 +1,25 @@
+num_particles: 30
+dim: 2
+bounds: [-5, 5]
+max_iters: 100
+
+
+gridsearch:
+  w:
+    start: 0.4
+    end: 0.9
+    steps: 3
+
+  c1:
+    start: 1.0
+    end: 5.0
+    steps: 3
+
+  c2:
+    start: 1.0
+    end: 5.0
+    steps: 3
+
+functions: ["sphere", "rastrigin", "rosenbrock", "ackley"]
+
+n_threads: 4

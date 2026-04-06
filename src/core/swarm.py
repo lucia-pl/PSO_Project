@@ -1,4 +1,5 @@
 from src.core.particle import Particle
+from src.data.format import to_python_type
 
 Bounds = list[tuple[float, float]]
 Vector = list[float]
@@ -22,6 +23,8 @@ class Swarm:
 
         self.global_best_position: Vector = list(self.particles[0].position)
         self.global_best_fitness: float = float("inf")
+        self.global_best_history = []
+
 
     def evaluate(self, fitness_func):
         """
@@ -34,10 +37,13 @@ class Swarm:
         
         for p in self.particles:
             fitness = p.evaluate_particle(fitness_func)
-
+            
             if fitness < self.global_best_fitness:
                 self.global_best_fitness = fitness
                 self.global_best_position = list(p.position)
+
+            self.global_best_history.append(self.global_best_fitness)
+
 
     def update(self, bounds: Bounds, w: float, c1: float, c2: float):
         """
