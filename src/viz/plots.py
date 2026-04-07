@@ -1,6 +1,12 @@
 import matplotlib.pyplot as plt
 
 def visualization(historic_record):
+    """
+    Graph creation
+
+    Args:
+        historic_record: all particle positions
+    """
     iterations = range(len(historic_record[0]["history"]))
 
     plt.figure(figsize=(8, 5))

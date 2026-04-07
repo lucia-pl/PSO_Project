@@ -1,5 +1,5 @@
 num_particles: 30
-dim: 2
+dim: 3
 bounds: [-5, 5]
 max_iters: 100
 
