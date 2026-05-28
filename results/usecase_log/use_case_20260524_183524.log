@@ -1,0 +1,65 @@
+18:35:24 | INFO     | Log guardado en: results\usecase_log\use_case_20260524_183524.log
+18:35:24 | INFO     | ==================================================
+18:35:24 | INFO     | CASO DE USO: Optimización SVM con PSO
+18:35:24 | INFO     | Dataset: Digits (sklearn)
+18:35:24 | INFO     |   muestras  : 1797
+18:35:24 | INFO     |   features  : 64
+18:35:24 | INFO     |   clases    : 10  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+18:35:24 | INFO     |   cv folds  : 5
+18:35:24 | INFO     |   seed      : 42
+18:35:24 | INFO     | ==================================================
+18:36:59 | INFO     | --------------------------------------------------
+18:36:59 | INFO     | RESULTADO V0 Sequential
+18:36:59 | INFO     |   C            : 1000.000000
+18:36:59 | INFO     |   gamma        : 0.008410
+18:36:59 | INFO     |   accuracy     : 0.9577  (95.77%)
+18:36:59 | INFO     |   evaluaciones : 800
+18:36:59 | INFO     |   time         : 95.33s
+18:36:59 | INFO     | --------------------------------------------------
+18:37:27 | INFO     | --------------------------------------------------
+18:37:27 | INFO     | RESULTADO V1 Threading
+18:37:27 | INFO     |   C            : 1000.000000
+18:37:27 | INFO     |   gamma        : 0.008410
+18:37:27 | INFO     |   accuracy     : 0.9577  (95.77%)
+18:37:27 | INFO     |   evaluaciones : 800
+18:37:27 | INFO     |   time         : 27.63s
+18:37:27 | INFO     | --------------------------------------------------
+18:39:02 | INFO     | --------------------------------------------------
+18:39:02 | INFO     | RESULTADO V2 Multiprocessing
+18:39:02 | INFO     |   C            : 1000.000000
+18:39:02 | INFO     |   gamma        : 0.008410
+18:39:02 | INFO     |   accuracy     : 0.9577  (95.77%)
+18:39:02 | INFO     |   evaluaciones : 0
+18:39:02 | INFO     |   time         : 95.53s
+18:39:02 | INFO     | --------------------------------------------------
+18:40:25 | INFO     | --------------------------------------------------
+18:40:25 | INFO     | RESULTADO V3 Asyncio
+18:40:25 | INFO     |   C            : 12.144580
+18:40:25 | INFO     |   gamma        : 0.008514
+18:40:25 | INFO     |   accuracy     : 0.9583  (95.83%)
+18:40:25 | INFO     |   evaluaciones : 800
+18:40:25 | INFO     |   time         : 82.94s
+18:40:25 | INFO     | --------------------------------------------------
+18:40:25 | INFO     | Ejecutando GridSearchCV como baseline...
+18:40:26 | INFO     | --------------------------------------------------
+18:40:26 | INFO     | RESULTADO GridSearchCV
+18:40:26 | INFO     |   C          : 10
+18:40:26 | INFO     |   gamma      : 0.01
+18:40:26 | INFO     |   accuracy   : 0.9560  (95.60%)
+18:40:26 | INFO     |   time       : 1.39s
+18:40:26 | INFO     |   combinaciones evaluadas: 20
+18:40:26 | INFO     | --------------------------------------------------
+18:40:26 | INFO     | ==================================================
+18:40:26 | INFO     | RESUMEN FINAL
+18:40:26 | INFO     |   Versión                  Accuracy      Time
+18:40:26 | INFO     |   ---------------------- ----------  --------
+18:40:26 | INFO     |   V0 Sequential              0.9577    95.33s
+18:40:26 | INFO     |   V1 Threading               0.9577    27.63s
+18:40:26 | INFO     |   V2 Multiprocessing         0.9577    95.53s
+18:40:26 | INFO     |   V3 Asyncio                 0.9583    82.94s
+18:40:26 | INFO     |   GridSearchCV               0.9560     1.39s
+18:40:26 | INFO     |   Speedup V1 Threading: 3.45x
+18:40:26 | INFO     |   Speedup V2 Multiprocessing: 1.00x
+18:40:26 | INFO     |   Speedup V3 Asyncio: 1.15x
+18:40:26 | INFO     | ==================================================
+18:40:29 | INFO     | Caso de uso completado.

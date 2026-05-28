@@ -1,0 +1,65 @@
+12:22:41 | INFO     | Saved log in: results\usecase_log\use_case_20260525_122241.log
+12:22:41 | INFO     | ==================================================
+12:22:41 | INFO     | USE CASE: SVM optimization using PSO
+12:22:41 | INFO     | Dataset: Digits (sklearn)
+12:22:41 | INFO     |   samples  : 1797
+12:22:41 | INFO     |   features  : 64
+12:22:41 | INFO     |   classes    : 10  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+12:22:41 | INFO     |   cv folds  : 5
+12:22:41 | INFO     |   seed      : 42
+12:22:41 | INFO     | ==================================================
+12:23:36 | INFO     | --------------------------------------------------
+12:23:36 | INFO     | RESULTS V0 Sequential
+12:23:36 | INFO     |   C (classes separation)  : 1000.000000
+12:23:36 | INFO     |   gamma (influence ratio) : 0.008410
+12:23:36 | INFO     |   accuracy     : 0.9577  (95.77%)
+12:23:36 | INFO     |   evaluations : 800
+12:23:36 | INFO     |   time         : 55.27s
+12:23:36 | INFO     | --------------------------------------------------
+12:23:56 | INFO     | --------------------------------------------------
+12:23:56 | INFO     | RESULTS V1 Threading
+12:23:56 | INFO     |   C (classes separation)  : 1000.000000
+12:23:56 | INFO     |   gamma (influence ratio) : 0.008410
+12:23:56 | INFO     |   accuracy     : 0.9577  (95.77%)
+12:23:56 | INFO     |   evaluations : 800
+12:23:56 | INFO     |   time         : 19.82s
+12:23:56 | INFO     | --------------------------------------------------
+12:25:13 | INFO     | --------------------------------------------------
+12:25:13 | INFO     | RESULTS V2 Multiprocessing
+12:25:13 | INFO     |   C (classes separation)  : 1000.000000
+12:25:13 | INFO     |   gamma (influence ratio) : 0.008410
+12:25:13 | INFO     |   accuracy     : 0.9577  (95.77%)
+12:25:13 | INFO     |   evaluations : 0
+12:25:13 | INFO     |   time         : 76.40s
+12:25:13 | INFO     | --------------------------------------------------
+12:26:00 | INFO     | --------------------------------------------------
+12:26:00 | INFO     | RESULTS V3 Asyncio
+12:26:00 | INFO     |   C (classes separation)  : 12.144580
+12:26:00 | INFO     |   gamma (influence ratio) : 0.008514
+12:26:00 | INFO     |   accuracy     : 0.9583  (95.83%)
+12:26:00 | INFO     |   evaluations : 800
+12:26:00 | INFO     |   time         : 47.17s
+12:26:00 | INFO     | --------------------------------------------------
+12:26:00 | INFO     | Running GridSearchCV as baseline...
+12:26:01 | INFO     | --------------------------------------------------
+12:26:01 | INFO     | RESULTS for GridSearchCV
+12:26:01 | INFO     |   C (classes separation) : 10
+12:26:01 | INFO     |   gamma (influence ratio) : 0.01
+12:26:01 | INFO     |   accuracy   : 0.9560  (95.60%)
+12:26:01 | INFO     |   time       : 1.19s
+12:26:01 | INFO     |   combined evaluations: 20
+12:26:01 | INFO     | --------------------------------------------------
+12:26:01 | INFO     | ==================================================
+12:26:01 | INFO     | SUMMARY
+12:26:01 | INFO     |   Version                  Accuracy      Time
+12:26:01 | INFO     |   ---------------------- ----------  --------
+12:26:01 | INFO     |   V0 Sequential              0.9577    55.27s
+12:26:01 | INFO     |   V1 Threading               0.9577    19.82s
+12:26:01 | INFO     |   V2 Multiprocessing         0.9577    76.40s
+12:26:01 | INFO     |   V3 Asyncio                 0.9583    47.17s
+12:26:01 | INFO     |   GridSearchCV               0.9560     1.19s
+12:26:01 | INFO     |   Speedup V1 Threading: 2.79x
+12:26:01 | INFO     |   Speedup V2 Multiprocessing: 0.72x
+12:26:01 | INFO     |   Speedup V3 Asyncio: 1.17x
+12:26:01 | INFO     | ==================================================
+12:26:03 | INFO     | USE CASE COMPLETED.

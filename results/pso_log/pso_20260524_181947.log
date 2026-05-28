@@ -1,0 +1,37 @@
+18:19:47 | INFO     | Log guardado en: results\pso_log\pso_20260524_181947.log
+18:19:47 | INFO     | =======================================================
+18:19:47 | INFO     | CONFIGURACIÓN
+18:19:47 | INFO     | =======================================================
+18:19:47 | INFO     |   num_particles : 40
+18:19:47 | INFO     |   dim           : 10
+18:19:47 | INFO     |   bounds        : [-5, 5]
+18:19:47 | INFO     |   max_iters     : 300
+18:19:47 | INFO     |   functions     : ['sphere', 'rastrigin', 'rosenbrock', 'ackley']
+18:19:47 | INFO     |   gridsearch    :
+18:19:47 | INFO     |     w: [0.4, 0.65, 0.9]
+18:19:47 | INFO     |     c1: [1.0, 1.75, 2.5]
+18:19:47 | INFO     |     c2: [1.0, 1.75, 2.5]
+18:19:47 | INFO     | =======================================================
+18:19:47 | INFO     | Ejecutando base PSO...
+18:19:57 | INFO     | -------------------------------------------------------
+18:19:57 | INFO     | RESULTADO — Base PSO  (mejor por función)
+18:19:57 | INFO     |   función           w     c1     c2      time    best_fitness
+18:19:57 | INFO     |   ------------ ------ ------ ------  --------  --------------
+18:19:57 | INFO     |   sphere        0.650  1.000  1.000    0.093s    1.145644e-35
+18:19:57 | INFO     |   rastrigin     0.400  2.500  1.750    0.080s    2.985253e+00
+18:19:57 | INFO     |   rosenbrock    0.650  1.750  1.750    0.137s    2.824278e+00
+18:19:57 | INFO     |   ackley        0.650  1.000  1.000    0.089s    3.996803e-15
+18:19:57 | INFO     | -------------------------------------------------------
+18:19:57 | INFO     | Ejecutando pyswarm baseline...
+18:20:07 | INFO     | -------------------------------------------------------
+18:20:07 | INFO     | RESULTADO — Pyswarm baseline  (mejor por función)
+18:20:07 | INFO     |   función          time    best_fitness
+18:20:07 | INFO     |   ------------ --------  --------------
+18:20:07 | INFO     |   sphere         0.289s    2.393871e-08
+18:20:07 | INFO     |   rastrigin      0.380s    2.985177e+00
+18:20:07 | INFO     |   rosenbrock     0.296s    1.275294e+00
+18:20:07 | INFO     |   ackley         0.234s    1.201153e-07
+18:20:07 | INFO     | -------------------------------------------------------
+18:20:08 | INFO     | Convergence plot guardado en src/io/convergence_pso.png
+18:20:08 | INFO     | Resultados guardados en src/io/resultsCSV.csv y resultsJSON.json
+18:20:08 | INFO     | Ejecución completada.

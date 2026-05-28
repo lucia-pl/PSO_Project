@@ -1,0 +1,36 @@
+18:34:14 | INFO     | Log guardado en: results\benchmark_log\benchmarks_20260524_183414.log
+18:34:14 | INFO     | Dimensiones a ejecutar: [2, 10, 30]
+18:34:14 | INFO     | =======================================================
+18:34:14 | INFO     | DIMENSIÓN 2  |  particles=40  iters=500
+18:34:14 | INFO     | =======================================================
+18:34:18 | INFO     |   función           w     c1     c2      time    best_fitness
+18:34:18 | INFO     |   ------------ ------ ------ ------  --------  --------------
+18:34:18 | INFO     |   sphere        0.400  1.000  1.000    0.044s   2.952466e-177
+18:34:18 | INFO     |   rastrigin     0.400  1.000  1.000    0.034s    0.000000e+00
+18:34:18 | INFO     |   rosenbrock    0.400  1.000  1.000    0.028s    0.000000e+00
+18:34:18 | INFO     |   ackley        0.400  1.000  1.000    0.056s    4.440892e-16
+18:34:19 | INFO     | Plot guardado  →  src/io/convergence_benchmarks_dim2.png
+18:34:19 | INFO     | Resultados guardados  (dim=2)
+18:34:19 | INFO     | =======================================================
+18:34:19 | INFO     | DIMENSIÓN 10  |  particles=40  iters=500
+18:34:19 | INFO     | =======================================================
+18:34:32 | INFO     |   función           w     c1     c2      time    best_fitness
+18:34:32 | INFO     |   ------------ ------ ------ ------  --------  --------------
+18:34:32 | INFO     |   sphere        0.650  1.000  1.000    0.111s    2.579854e-61
+18:34:32 | INFO     |   rastrigin     0.650  1.000  2.500    0.108s    1.989918e+00
+18:34:32 | INFO     |   rosenbrock    0.400  1.000  2.500    0.117s    1.377569e-01
+18:34:32 | INFO     |   ackley        0.400  1.000  2.500    0.121s    3.996803e-15
+18:34:33 | INFO     | Plot guardado  →  src/io/convergence_benchmarks_dim10.png
+18:34:33 | INFO     | Resultados guardados  (dim=10)
+18:34:33 | INFO     | =======================================================
+18:34:33 | INFO     | DIMENSIÓN 30  |  particles=40  iters=500
+18:34:33 | INFO     | =======================================================
+18:35:08 | INFO     |   función           w     c1     c2      time    best_fitness
+18:35:08 | INFO     |   ------------ ------ ------ ------  --------  --------------
+18:35:08 | INFO     |   sphere        0.650  2.500  1.000    0.271s    6.216594e-11
+18:35:08 | INFO     |   rastrigin     0.650  1.750  1.000    0.294s    7.121140e+01
+18:35:08 | INFO     |   rosenbrock    0.650  1.000  2.500    0.345s    1.066227e+01
+18:35:08 | INFO     |   ackley        0.400  2.500  1.750    0.302s    1.143994e-03
+18:35:09 | INFO     | Plot guardado  →  src/io/convergence_benchmarks_dim30.png
+18:35:09 | INFO     | Resultados guardados  (dim=30)
+18:35:09 | INFO     | Benchmark completado.

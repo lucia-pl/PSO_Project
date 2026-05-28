@@ -1,0 +1,76 @@
+12:30:12 | INFO     | Saved log: results\parallels_log\parallels_20260525_123012.log
+12:30:12 | INFO     | =======================================================
+12:30:12 | INFO     | CONFIGURATION
+12:30:12 | INFO     | =======================================================
+12:30:12 | INFO     |   num_particles : 40
+12:30:12 | INFO     |   dim           : 10
+12:30:12 | INFO     |   bounds        : [-5, 5]
+12:30:12 | INFO     |   max_iters     : 300
+12:30:12 | INFO     |   functions     : ['sphere', 'rastrigin', 'rosenbrock', 'ackley']
+12:30:12 | INFO     |   gridsearch    :
+12:30:12 | INFO     |     w: [0.4, 0.65, 0.9]
+12:30:12 | INFO     |     c1: [1.0, 1.75, 2.5]
+12:30:12 | INFO     |     c2: [1.0, 1.75, 2.5]
+12:30:12 | INFO     |   workers       :
+12:30:12 | INFO     |     V1 workers   : None
+12:30:12 | INFO     |     V2 workers   : None
+12:30:12 | INFO     |     V2 batch     : 2
+12:30:12 | INFO     |     V3 max_delay : 0.02
+12:30:12 | INFO     | =======================================================
+12:30:12 | INFO     | Running V1 (threading)...
+12:30:55 | INFO     | -------------------------------------------------------
+12:30:55 | INFO     | RESULTS for V1 threading  (Best run for each function)
+12:30:55 | INFO     |   function          w     c1     c2      time    best_fitness
+12:30:55 | INFO     |   ------------ ------ ------ ------  --------  --------------
+12:30:55 | INFO     |   sphere        0.400  1.750  1.750    0.394s    2.943649e-36
+12:30:55 | INFO     |   rastrigin     0.400  1.750  2.500    0.391s    9.954945e-01
+12:30:55 | INFO     |   rosenbrock    0.650  1.750  1.750    0.388s    7.201316e-02
+12:30:55 | INFO     |   ackley        0.650  1.000  1.000    0.404s    3.996803e-15
+12:30:55 | INFO     |   ───────────────────────────────────────────────────────
+12:30:55 | INFO     |   total_time    : 43.850s  (all runs)
+12:30:55 | INFO     |   n_runs        : 108
+12:30:55 | INFO     |   best_overall  : 2.943649e-36
+12:30:55 | INFO     | -------------------------------------------------------
+12:30:55 | INFO     | Running V2 (multiprocessing)...
+12:39:25 | INFO     | -------------------------------------------------------
+12:39:25 | INFO     | RESULTS for V2 multiprocessing  (Best run for each function)
+12:39:25 | INFO     |   function          w     c1     c2      time    best_fitness
+12:39:25 | INFO     |   ------------ ------ ------ ------  --------  --------------
+12:39:25 | INFO     |   sphere        0.400  1.750  1.750    4.284s    8.894630e-37
+12:39:25 | INFO     |   rastrigin     0.650  2.500  1.000    4.424s    2.232726e+00
+12:39:25 | INFO     |   rosenbrock    0.400  2.500  1.750    4.543s    1.668147e-02
+12:39:25 | INFO     |   ackley        0.650  1.750  1.000    4.539s    7.549517e-15
+12:39:25 | INFO     |   ───────────────────────────────────────────────────────
+12:39:25 | INFO     |   total_time    : 509.792s  (all runs)
+12:39:25 | INFO     |   n_runs        : 108
+12:39:25 | INFO     |   best_overall  : 8.894630e-37
+12:39:25 | INFO     | -------------------------------------------------------
+12:39:25 | INFO     | Running V3 (asyncio, simulated latency)...
+12:56:01 | INFO     | -------------------------------------------------------
+12:56:01 | INFO     | RESULTS for V3 asyncio  (Best run for each function)
+12:56:01 | INFO     |   function          w     c1     c2      time    best_fitness
+12:56:01 | INFO     |   ------------ ------ ------ ------  --------  --------------
+12:56:01 | INFO     |   sphere        0.650  1.000  1.000    9.457s    1.289588e-36
+12:56:01 | INFO     |   rastrigin     0.650  2.500  1.000    9.631s    2.059732e+00
+12:56:01 | INFO     |   rosenbrock    0.650  1.750  1.750    9.253s    4.786851e+00
+12:56:01 | INFO     |   ackley        0.650  1.750  1.000    8.929s    3.996803e-15
+12:56:01 | INFO     |   ───────────────────────────────────────────────────────
+12:56:01 | INFO     |   total_time    : 995.954s  (all runs)
+12:56:01 | INFO     |   n_runs        : 108
+12:56:01 | INFO     |   best_overall  : 1.289588e-36
+12:56:01 | INFO     | -------------------------------------------------------
+12:56:01 | INFO     | Running V4 (Vectorized NumPy)...
+12:56:14 | INFO     | -------------------------------------------------------
+12:56:14 | INFO     | RESULTS for V4 numpy  (Best run for each function)
+12:56:14 | INFO     |   function          w     c1     c2      time    best_fitness
+12:56:14 | INFO     |   ------------ ------ ------ ------  --------  --------------
+12:56:14 | INFO     |   sphere        0.400  1.750  1.750    0.066s    1.693718e-34
+12:56:14 | INFO     |   rastrigin     0.650  2.500  1.000    0.105s    2.162508e+00
+12:56:14 | INFO     |   rosenbrock    0.400  1.000  2.500    0.137s    2.922981e-01
+12:56:14 | INFO     |   ackley        0.400  1.750  1.750    0.122s    3.996803e-15
+12:56:14 | INFO     |   ───────────────────────────────────────────────────────
+12:56:14 | INFO     |   total_time    : 12.652s  (all runs)
+12:56:14 | INFO     |   n_runs        : 108
+12:56:14 | INFO     |   best_overall  : 1.693718e-34
+12:56:14 | INFO     | -------------------------------------------------------
+12:56:14 | INFO     | ALL PARALLEL VERSIONS COMPLETED.
