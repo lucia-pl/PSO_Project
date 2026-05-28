@@ -1,5 +1,13 @@
+"""
+@file        baseline.py
+@author      Lucía Parreño Legorburo
+@brief       Creates the PSO using pyswarm to compare it with the base PSO
+"""
+
 from pyswarm import pso
 import numpy as np
+import sys
+import io
 
 from src.objectives.benchmarks import sphere, rastrigin, rosenbrock, ackley
 
@@ -42,6 +50,10 @@ def run_baseline(
     results = []
 
     for name, func in OBJECTIVE_FUNCTIONS.items():
+
+        old_stdout = sys.stdout
+        sys.stdout = io.StringIO()
+
         best_pos, best_fit = pso(
             func,
             lb,
@@ -52,7 +64,9 @@ def run_baseline(
             phip=phip,
             phig=phig
         )
-
+        sys.stdout = old_stdout
+        
+        
         results.append({
             "function": name,
             "best_fitness": best_fit,

@@ -1,5 +1,10 @@
-import random
+"""
+@file        particle.py
+@author      Lucía Parreño Legorburo
+@brief       Initialization of particle and all the methods to evaluate its performance and movement around the given trials space
+"""
 
+import random
 
 Bounds = list[tuple[float, float]]
 Vector = list[float]
@@ -42,14 +47,14 @@ class Particle:
             self.position.append(value_pos)
 
 
-    def evaluate_particle(self, fitness_func) -> float:
+    def evaluate_particle(self, fitness_func: object) -> float:
         """
         Uses the current position to evaluate its performance using fitness_func, 
         if the position returned is better than the current fitness registered the fitness is 
         updated to the value calculated with the current position and fitness_func.
 
         Args:
-            fitness_func: objective function used for the optimization
+            fitness_func (object): objective function used for the optimization
 
         Returns:
             float: current fitness found in this iteration (even if it is not the best)

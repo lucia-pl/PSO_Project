@@ -1,8 +1,13 @@
-num_particles: 30
-dim: 3
+num_particles: 40
+dim: 10
 bounds: [-5, 5]
-max_iters: 100
+max_iters: 300
 
+workers:
+  v1_workers: null
+  v2_workers: null
+  v2_batch: null        # max(1, num_particles // cpu_count)
+  v3_max_delay: 0.02
 
 gridsearch:
   w:
@@ -12,14 +17,15 @@ gridsearch:
 
   c1:
     start: 1.0
-    end: 5.0
+    end: 2.5
     steps: 3
 
   c2:
     start: 1.0
-    end: 5.0
+    end: 2.5
     steps: 3
 
-functions: ["sphere", "rastrigin", "rosenbrock", "ackley"]
+
+functions: [sphere, rastrigin, rosenbrock, ackley]
 
 n_threads: 4

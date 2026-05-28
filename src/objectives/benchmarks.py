@@ -1,3 +1,9 @@
+"""
+@file        benchmarks.py
+@author      Lucía Parreño Legorburo
+@brief       Commonly used objective functions used in the trials and evaluation of PSO
+"""
+
 from math import cos, pi, exp, sqrt
 Vector = list[float]
 

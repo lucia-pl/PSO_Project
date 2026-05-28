@@ -1,4 +1,11 @@
+"""
+@file        format.py
+@author      Lucía Parreño Legorburo
+@brief       Single method to addapt numpy format to python for user-friendly readable numbers
+"""
+
 import numpy as np
+
 
 def to_python_type(value):
     """
@@ -15,3 +22,5 @@ def to_python_type(value):
     if isinstance(value, (list, tuple)):
         return [to_python_type(v) for v in value]
     return value
+
+

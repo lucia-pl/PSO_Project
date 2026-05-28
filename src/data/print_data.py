@@ -1,3 +1,9 @@
+"""
+@file        print_data.py
+@author      Lucía Parreño Legorburo
+@brief       Creates tables for final comparisons and easy reading of the results of the trials
+"""
+
 from prettytable import PrettyTable
 from experiments.gridsearch import extract_best
 from src.data.format import to_python_type
@@ -6,7 +12,7 @@ FUNCTIONS = ["sphere", "rastrigin", "rosenbrock", "ackley"]
 
 
 
-def print_data(pso_results, baseline_results, pso_time, baseline_time):
+def print_data(pso_results, baseline_results):
     """
     Prints data in a readable and clear way.
     Extracts the best results of each type of pso for each function and formats the information
@@ -39,9 +45,9 @@ def print_data(pso_results, baseline_results, pso_time, baseline_time):
         table_compare.add_row([
             func,
             to_python_type(best_pso["best_fitness"]),
-            to_python_type(pso_time),
+            to_python_type(best_pso["time"]),
             to_python_type(best_base["best_fitness"]),
-            to_python_type(baseline_time),
+            to_python_type(best_base["time"]),
         ])
 
     print(table_compare)
@@ -49,7 +55,7 @@ def print_data(pso_results, baseline_results, pso_time, baseline_time):
     print("\n=== Best configuration for PSO ===")
 
     table_pso = PrettyTable()
-    table_pso.field_names = ["Function", "w", "c1", "c2", "Fitness", "Position"]
+    table_pso.field_names = ["Function", "w", "c1", "c2", "Fitness"]
 
     for func in FUNCTIONS:
         best = extract_best(pso_results, func)
@@ -58,8 +64,8 @@ def print_data(pso_results, baseline_results, pso_time, baseline_time):
             best["w"],
             best["c1"],
             best["c2"],
-            to_python_type(best["best_fitness"]),
-            to_python_type(best["best_position"])
+            to_python_type(best["best_fitness"])
         ])
 
     print(table_pso)
+

@@ -1,9 +1,16 @@
+"""
+@file        gridsearch.py
+@author      Lucía Parreño Legorburo
+@brief       Generates all combinations of the parameters to create a gridsearch and executes it on the base PSO and pyswarm, 
+                then it finds the best results per function.
+"""
+
 import itertools
+import time
 
 from src.core.pso import PSO
 from src.core.baseline import run_baseline
 from src.objectives.benchmarks import sphere, rastrigin, rosenbrock, ackley
-from src.parallel.threading.threading_pso import ThreadingPSO
 
 OBJECTIVE_FUNCTIONS = {
     "sphere": sphere,
@@ -63,6 +70,7 @@ def pso_gridsearch(
 
     for func_name, func in OBJECTIVE_FUNCTIONS.items():
         for cfg in grid_config:
+            start_pso = time.time()
             pso = PSO(
                 num_particles=num_particles,
                 dim=dim,
@@ -76,7 +84,11 @@ def pso_gridsearch(
 
             best_pos, best_fit, particle_history = pso.optimize()
 
+            end_pso = time.time()
+            pso_time = end_pso - start_pso
+
             results.append({
+                "time": pso_time,
                 "function": func_name,
                 "w": cfg["w"],
                 "c1": cfg["c1"],
@@ -110,6 +122,8 @@ def baseline_gridsearch(
     best_results = {name: None for name in OBJECTIVE_FUNCTIONS.keys()}
 
     for cfg in grid_config:
+
+        start = time.perf_counter()
         current_results = run_baseline(
             bounds=bounds,
             max_iters=max_iters,
@@ -118,69 +132,27 @@ def baseline_gridsearch(
             phip=cfg["c1"],
             phig=cfg["c2"]
         )
+        end = time.perf_counter()-start
 
         for res in current_results:
             name = res["function"]
 
-            if best_results[name] is None or res["best_fitness"] < best_results[name]["best_fitness"]:
-                best_results[name] = res
+            res_with_time = {
+                **res,
+                "time": end,
+                "config": cfg
+            }
+
+            if (
+                best_results[name] is None 
+                or res["best_fitness"] < best_results[name]["best_fitness"]
+            ):
+                best_results[name] = res_with_time
 
     return best_results
 
-def pso_threading_gridsearch(
-    num_particles: int,
-    dim: int,
-    bounds: list[tuple[float, float]],
-    max_iters: int,
-    n_threads: int,
-    param_grid
-    ):
-    """
-    Runs gridsearch for each function, used for threading PSO.
 
-    Args:
-        num_particles (int)
-        dim (int)
-        bounds (list[tuple])
-        max_iters (int)
-        n_threads (int)
-        param_grid (dict)
 
-    Returns:
-        list[dict]: gridsearch results
-    """
-
-    grid_config = generate_grid(param_grid)
-    results = []
-
-    for func_name, func in OBJECTIVE_FUNCTIONS.items():
-        for cfg in grid_config:
-
-            pso = ThreadingPSO(
-                num_particles=num_particles,
-                dim=dim,
-                bounds=bounds,
-                fitness_func=func,
-                w=cfg["w"],
-                c1=cfg["c1"],
-                c2=cfg["c2"],
-                max_iters=max_iters,
-                n_threads=n_threads
-            )
-
-            best_pos, best_fit, particle_history = pso.optimize()
-
-            results.append({
-                "function": func_name,
-                "w": cfg["w"],
-                "c1": cfg["c1"],
-                "c2": cfg["c2"],
-                "best_fitness": best_fit,
-                "best_position": best_pos,
-                "particle_history": particle_history
-            })
-
-    return results
 
 
 def extract_best(results, func_name):

@@ -1,7 +1,13 @@
+"""
+@file        save_data.py
+@author      Lucía Parreño Legorburo
+@brief       Methods to save in CSV and JSON files the results obtained in the trials, 
+                they update or create (if it does not exists) the files to use them later for visualization
+"""
+
 import os
 
 import csv
-import yaml
 import json
 
 from datetime import datetime
@@ -23,11 +29,11 @@ def data_csv(pso_results):
         pso_results (list[dict])
     """
 
-    file_path = os.path.join("tests", "resultsCSV.csv")
+    file_path = os.path.join("src","io", "resultsCSV.csv")
     file_exists = os.path.isfile(file_path)
 
     # As a safety measure the directory will be checked and created if it doesn't exist
-    os.makedirs("tests", exist_ok=True)
+    os.makedirs("src/io", exist_ok=True)
 
     with open(file_path, mode="a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
@@ -51,7 +57,6 @@ def data_csv(pso_results):
                 timestamp,
                 func,
                 to_python_type(best["best_fitness"]),
-                to_python_type(best["best_position"]),
                 to_python_type(best["w"]),
                 to_python_type(best["c1"]),
                 to_python_type(best["c2"])
@@ -72,10 +77,10 @@ def data_json(pso_results):
         pso_results (list[dict])
     """
 
-    file_path = os.path.join("tests", "resultsJSON.json")
+    file_path = os.path.join("src","io", "resultsJSON.json")
 
     # As a safety measure the directory will be checked and created if it doesn't exist
-    os.makedirs("tests", exist_ok=True)
+    os.makedirs("src/io", exist_ok=True)
 
     if os.path.isfile(file_path):
         with open(file_path, "r", encoding="utf-8") as f:
@@ -93,7 +98,6 @@ def data_json(pso_results):
             "timestamp": timestamp,
             "function": func,
             "best_fitness": to_python_type(best["best_fitness"]),
-            "best_position": to_python_type(best["best_position"]),
             "w": to_python_type(best["w"]),
             "c1": to_python_type(best["c1"]),
             "c2": to_python_type(best["c2"])

@@ -1,5 +1,11 @@
+"""
+@file        swarm.py
+@author      Lucía Parreño Legorburo
+@brief       Creates the particle population used in the PSO an evaluates and updates positions 
+                of each particle in the whole swarm
+"""
+
 from src.core.particle import Particle
-from src.data.format import to_python_type
 
 Bounds = list[tuple[float, float]]
 Vector = list[float]

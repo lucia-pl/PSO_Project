@@ -1,0 +1,5122 @@
+[
+    {
+        "timestamp": "2026-03-28 11:10:46",
+        "function": "sphere",
+        "best_fitness": 3.0604643316821136e-174,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:10:46",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:10:46",
+        "function": "rosenbrock",
+        "best_fitness": 6.9143658342621685e-28,
+        "w": 0.4,
+        "c1": 1.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:10:46",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:20:15",
+        "function": "sphere",
+        "best_fitness": 6.30309542662109e-176,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:20:15",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.5,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-03-28 11:20:15",
+        "function": "rosenbrock",
+        "best_fitness": 3.2995882297905566e-26,
+        "w": 0.65,
+        "c1": 1.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:20:15",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:23:58",
+        "function": "sphere",
+        "best_fitness": 8.719007144572372e-175,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:23:58",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:23:58",
+        "function": "rosenbrock",
+        "best_fitness": 8.411229401919038e-29,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.0
+    },
+    {
+        "timestamp": "2026-03-28 11:23:58",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:57:36",
+        "function": "sphere",
+        "best_fitness": 3.7684711653048986e-173,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:57:36",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:57:36",
+        "function": "rosenbrock",
+        "best_fitness": 2.4396963165111818e-23,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-03-28 11:57:36",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:58:27",
+        "function": "sphere",
+        "best_fitness": 1.83284997973582e-176,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:58:27",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-03-28 11:58:27",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 11:58:27",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:39:23",
+        "function": "sphere",
+        "best_fitness": 7.272353611391866e-38,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:39:23",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:39:23",
+        "function": "rosenbrock",
+        "best_fitness": 1.3124350871979203e-13,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:39:23",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:41:01",
+        "function": "sphere",
+        "best_fitness": 4.270692563320345e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:41:01",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:41:01",
+        "function": "rosenbrock",
+        "best_fitness": 3.3905009928927663e-11,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:41:01",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:42:45",
+        "function": "sphere",
+        "best_fitness": 6.480273983078884e-38,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:42:45",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:42:45",
+        "function": "rosenbrock",
+        "best_fitness": 9.273754836742991e-12,
+        "w": 0.4,
+        "c1": 1.5,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-03-28 12:42:45",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:50:53",
+        "function": "sphere",
+        "best_fitness": 1.8784643516440418e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:50:53",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:50:53",
+        "function": "rosenbrock",
+        "best_fitness": 1.4812395789596826e-11,
+        "w": 0.4,
+        "c1": 1.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:50:53",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:56:09",
+        "function": "sphere",
+        "best_fitness": 8.150773680943507e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:56:09",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:56:09",
+        "function": "rosenbrock",
+        "best_fitness": 1.018368674286534e-10,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.0
+    },
+    {
+        "timestamp": "2026-03-28 12:56:09",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:57:55",
+        "function": "sphere",
+        "best_fitness": 9.222236790100577e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:57:55",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-03-28 12:57:55",
+        "function": "rosenbrock",
+        "best_fitness": 6.2429693920674e-11,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:57:55",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:59:34",
+        "function": "sphere",
+        "best_fitness": 5.785123094713132e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:59:34",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-03-28 12:59:34",
+        "function": "rosenbrock",
+        "best_fitness": 2.416474192321314e-10,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 12:59:34",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:02:41",
+        "function": "sphere",
+        "best_fitness": 3.5439260532548914e-38,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:02:41",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:02:41",
+        "function": "rosenbrock",
+        "best_fitness": 1.526045728466132e-13,
+        "w": 0.4,
+        "c1": 1.5,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-03-28 13:02:41",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:33:17",
+        "function": "sphere",
+        "best_fitness": 1.3741437026016177e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:33:17",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:33:17",
+        "function": "rosenbrock",
+        "best_fitness": 2.28241794953676e-13,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-03-28 13:33:17",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:33:47",
+        "function": "sphere",
+        "best_fitness": 1.0845028505308635e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:33:47",
+        "function": "rastrigin",
+        "best_fitness": 7.105427357601002e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-03-28 13:33:47",
+        "function": "rosenbrock",
+        "best_fitness": 4.302054292803193e-09,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 13:33:47",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:11:49",
+        "function": "sphere",
+        "best_fitness": 9.487866418054974e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:11:49",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:11:49",
+        "function": "rosenbrock",
+        "best_fitness": 9.355602751086249e-11,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:11:49",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:13:56",
+        "function": "sphere",
+        "best_fitness": 1.566655309452454e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:13:56",
+        "function": "rastrigin",
+        "best_fitness": 3.552713678800501e-15,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:13:56",
+        "function": "rosenbrock",
+        "best_fitness": 5.077760893697704e-10,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:13:56",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:16:18",
+        "function": "sphere",
+        "best_fitness": 1.1505935644100932e-176,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:16:18",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:16:18",
+        "function": "rosenbrock",
+        "best_fitness": 1.67632942359465e-30,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:16:18",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:17:58",
+        "function": "sphere",
+        "best_fitness": 1.4536517954640879e-33,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:17:58",
+        "function": "rastrigin",
+        "best_fitness": 1.3500311979441904e-13,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:17:58",
+        "function": "rosenbrock",
+        "best_fitness": 0.05168127053586585,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:17:58",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:33:53",
+        "function": "sphere",
+        "best_fitness": 7.500060911738701e-34,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:33:53",
+        "function": "rastrigin",
+        "best_fitness": 3.564481278317544e-05,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:33:53",
+        "function": "rosenbrock",
+        "best_fitness": 0.006272397528197792,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 19:33:53",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 20:02:49",
+        "function": "sphere",
+        "best_fitness": 2.0227221727378854e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 20:02:49",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 20:02:49",
+        "function": "rosenbrock",
+        "best_fitness": 7.221502697972757e-09,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 20:02:49",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 20:04:31",
+        "function": "sphere",
+        "best_fitness": 7.528791673104919e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 20:04:31",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 20:04:31",
+        "function": "rosenbrock",
+        "best_fitness": 4.0404900667611775e-07,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 20:04:31",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 22:23:05",
+        "function": "sphere",
+        "best_fitness": 3.668786684323265e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 22:23:05",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 22:23:05",
+        "function": "rosenbrock",
+        "best_fitness": 1.5423500527482346e-09,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-28 22:23:05",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:01:25",
+        "function": "sphere",
+        "best_fitness": 4.638825553070467e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:01:25",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:01:25",
+        "function": "rosenbrock",
+        "best_fitness": 3.7723533031528507e-10,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:01:25",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:03:03",
+        "function": "sphere",
+        "best_fitness": 5.650304115858015e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:03:03",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:03:03",
+        "function": "rosenbrock",
+        "best_fitness": 5.5690800882213734e-14,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:03:03",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:11:26",
+        "function": "sphere",
+        "best_fitness": 1.2286339416095627e-39,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:11:26",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:11:26",
+        "function": "rosenbrock",
+        "best_fitness": 8.366230477844206e-14,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:11:26",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:12:27",
+        "function": "sphere",
+        "best_fitness": 8.84251614109107e-39,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:12:27",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:12:27",
+        "function": "rosenbrock",
+        "best_fitness": 1.15175035040232e-13,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:12:27",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:15:15",
+        "function": "sphere",
+        "best_fitness": 8.637474148247082e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:15:15",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:15:15",
+        "function": "rosenbrock",
+        "best_fitness": 3.097799944657312e-09,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:15:15",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:19:28",
+        "function": "sphere",
+        "best_fitness": 9.07021785481082e-39,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:19:28",
+        "function": "rastrigin",
+        "best_fitness": 7.105427357601002e-15,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:19:28",
+        "function": "rosenbrock",
+        "best_fitness": 1.2522910554780704e-07,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:19:28",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:21:18",
+        "function": "sphere",
+        "best_fitness": 7.866833358707631e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:21:18",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:21:18",
+        "function": "rosenbrock",
+        "best_fitness": 8.049685434877835e-08,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-03-29 12:21:18",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:21:40",
+        "function": "sphere",
+        "best_fitness": 6.739884929224818e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:21:40",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:21:40",
+        "function": "rosenbrock",
+        "best_fitness": 1.3813674698818804e-07,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:21:40",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:24:23",
+        "function": "sphere",
+        "best_fitness": 1.9591207399568786e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:24:23",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:24:23",
+        "function": "rosenbrock",
+        "best_fitness": 1.2139052302919235e-07,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:24:23",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:24:43",
+        "function": "sphere",
+        "best_fitness": 6.154078749560171e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:24:43",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:24:43",
+        "function": "rosenbrock",
+        "best_fitness": 4.827803611495622e-10,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:24:43",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:26:27",
+        "function": "sphere",
+        "best_fitness": 8.222446920709242e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:26:27",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:26:27",
+        "function": "rosenbrock",
+        "best_fitness": 1.8377662700803404e-07,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:26:27",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:26:46",
+        "function": "sphere",
+        "best_fitness": 4.0090072693157355e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:26:46",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:26:46",
+        "function": "rosenbrock",
+        "best_fitness": 1.1138039166712468e-08,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:26:46",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:27:06",
+        "function": "sphere",
+        "best_fitness": 2.0373086365876406e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:27:06",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:27:06",
+        "function": "rosenbrock",
+        "best_fitness": 1.0461839417693065e-13,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:27:06",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:29:55",
+        "function": "sphere",
+        "best_fitness": 1.7510910334242448e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:29:55",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:29:55",
+        "function": "rosenbrock",
+        "best_fitness": 4.1634785804101673e-07,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:29:55",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:46:43",
+        "function": "sphere",
+        "best_fitness": 6.903798982859874e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:46:43",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:46:43",
+        "function": "rosenbrock",
+        "best_fitness": 4.3573190578598264e-11,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:46:43",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:47:47",
+        "function": "sphere",
+        "best_fitness": 4.617269039463359e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:47:47",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:47:47",
+        "function": "rosenbrock",
+        "best_fitness": 1.5579178901996165e-11,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:47:47",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:52:49",
+        "function": "sphere",
+        "best_fitness": 4.138545370506497e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:52:49",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:52:49",
+        "function": "rosenbrock",
+        "best_fitness": 1.265447112307002e-08,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:52:49",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:53:23",
+        "function": "sphere",
+        "best_fitness": 1.0348299999054297e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:53:23",
+        "function": "rastrigin",
+        "best_fitness": 3.552713678800501e-15,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:53:23",
+        "function": "rosenbrock",
+        "best_fitness": 5.851701700690707e-08,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-03-29 12:53:23",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-01 16:50:04",
+        "function": "sphere",
+        "best_fitness": 9.156094552034915e-38,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-01 16:50:04",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-01 16:50:04",
+        "function": "rosenbrock",
+        "best_fitness": 7.666993983990325e-06,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-01 16:50:04",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-01 17:57:30",
+        "function": "sphere",
+        "best_fitness": 1.655463517438961e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-01 17:57:30",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-01 17:57:30",
+        "function": "rosenbrock",
+        "best_fitness": 7.021158437760842e-09,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-04-01 17:57:30",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-06 12:50:09",
+        "function": "sphere",
+        "best_fitness": 4.500307556533805e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-06 12:50:09",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-06 12:50:09",
+        "function": "rosenbrock",
+        "best_fitness": 2.7058005980432743e-06,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-06 12:50:09",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 09:06:47",
+        "function": "sphere",
+        "best_fitness": 1.243610101084374e-33,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 09:06:47",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 09:06:47",
+        "function": "rosenbrock",
+        "best_fitness": 0.022030963585701932,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 09:06:47",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 09:10:59",
+        "function": "sphere",
+        "best_fitness": 2.097222860624836e-33,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 09:10:59",
+        "function": "rastrigin",
+        "best_fitness": 2.5224267119483557e-13,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 09:10:59",
+        "function": "rosenbrock",
+        "best_fitness": 0.003527089260139088,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-04-07 09:10:59",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 10:06:13",
+        "function": "sphere",
+        "best_fitness": 10.918437244128198,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 10:06:13",
+        "function": "rastrigin",
+        "best_fitness": 132.5651312474145,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 10:06:13",
+        "function": "rosenbrock",
+        "best_fitness": 444.0604459660032,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-07 10:06:13",
+        "function": "ackley",
+        "best_fitness": 2.976413894183214,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 16:55:13",
+        "function": "sphere",
+        "best_fitness": 5.083571206025123,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 16:55:13",
+        "function": "rastrigin",
+        "best_fitness": 121.02014824892171,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 16:55:13",
+        "function": "rosenbrock",
+        "best_fitness": 455.7818192627995,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 16:55:13",
+        "function": "ackley",
+        "best_fitness": 3.213553415361315,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 16:56:17",
+        "function": "sphere",
+        "best_fitness": 6.016932281571993,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 16:56:17",
+        "function": "rastrigin",
+        "best_fitness": 125.2973016166228,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 16:56:17",
+        "function": "rosenbrock",
+        "best_fitness": 938.1587172353129,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 16:56:17",
+        "function": "ackley",
+        "best_fitness": 4.080770242059948,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:13:17",
+        "function": "sphere",
+        "best_fitness": 5.544270806585228,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:13:17",
+        "function": "rastrigin",
+        "best_fitness": 115.52843290623665,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:13:17",
+        "function": "rosenbrock",
+        "best_fitness": 515.7934040298115,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:13:17",
+        "function": "ackley",
+        "best_fitness": 2.44524625384479,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:13:51",
+        "function": "sphere",
+        "best_fitness": 7.125893589758965,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:13:51",
+        "function": "rastrigin",
+        "best_fitness": 135.28766041762893,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:13:51",
+        "function": "rosenbrock",
+        "best_fitness": 472.87320921497496,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:13:51",
+        "function": "ackley",
+        "best_fitness": 3.1482565855660387,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:14:24",
+        "function": "sphere",
+        "best_fitness": 4.61215936468398,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:14:24",
+        "function": "rastrigin",
+        "best_fitness": 84.49577618957062,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:14:24",
+        "function": "rosenbrock",
+        "best_fitness": 794.2411595673041,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:14:24",
+        "function": "ackley",
+        "best_fitness": 2.8900490341941034,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:14:52",
+        "function": "sphere",
+        "best_fitness": 2.6049691876558083,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:14:52",
+        "function": "rastrigin",
+        "best_fitness": 153.22484093879908,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:14:52",
+        "function": "rosenbrock",
+        "best_fitness": 544.4654836225809,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:14:52",
+        "function": "ackley",
+        "best_fitness": 2.241334605598287,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:19:50",
+        "function": "sphere",
+        "best_fitness": 11.62017003989694,
+        "w": 0.9,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:19:50",
+        "function": "rastrigin",
+        "best_fitness": 140.78095393526573,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:19:50",
+        "function": "rosenbrock",
+        "best_fitness": 537.5219918781469,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:19:50",
+        "function": "ackley",
+        "best_fitness": 3.651915299329858,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:22:44",
+        "function": "sphere",
+        "best_fitness": 7.040381362741532,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:22:44",
+        "function": "rastrigin",
+        "best_fitness": 119.79749787749873,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:22:44",
+        "function": "rosenbrock",
+        "best_fitness": 497.20359295616373,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:22:44",
+        "function": "ackley",
+        "best_fitness": 3.8114832218417054,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:23:18",
+        "function": "sphere",
+        "best_fitness": 3.6347897522142705,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:23:18",
+        "function": "rastrigin",
+        "best_fitness": 129.99930692550342,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:23:18",
+        "function": "rosenbrock",
+        "best_fitness": 2913.303522812297,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:23:18",
+        "function": "ackley",
+        "best_fitness": 3.1604702498885513,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:23:38",
+        "function": "sphere",
+        "best_fitness": 4.52742993680234,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:23:38",
+        "function": "rastrigin",
+        "best_fitness": 113.63793179159936,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:23:38",
+        "function": "rosenbrock",
+        "best_fitness": 756.3265556894199,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:23:38",
+        "function": "ackley",
+        "best_fitness": 2.2950496125884645,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:24:47",
+        "function": "sphere",
+        "best_fitness": 5.31044463682976,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:24:47",
+        "function": "rastrigin",
+        "best_fitness": 128.62073110252422,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:24:47",
+        "function": "rosenbrock",
+        "best_fitness": 284.306089935273,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:24:47",
+        "function": "ackley",
+        "best_fitness": 2.763464807221244,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:34:03",
+        "function": "sphere",
+        "best_fitness": 6.936730849741373,
+        "w": 0.65,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:34:03",
+        "function": "rastrigin",
+        "best_fitness": 132.46890501825806,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:34:03",
+        "function": "rosenbrock",
+        "best_fitness": 1428.6809584384055,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:34:03",
+        "function": "ackley",
+        "best_fitness": 2.7377324329636115,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:43:57",
+        "function": "sphere",
+        "best_fitness": 6.988008674248756,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:43:57",
+        "function": "rastrigin",
+        "best_fitness": 99.78317899807777,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:43:57",
+        "function": "rosenbrock",
+        "best_fitness": 947.4696240287556,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 19:43:57",
+        "function": "ackley",
+        "best_fitness": 3.56384235103538,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-04-27 20:05:28",
+        "function": "sphere",
+        "best_fitness": 5.514249938962192,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:05:28",
+        "function": "rastrigin",
+        "best_fitness": 104.46665584043387,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:05:28",
+        "function": "rosenbrock",
+        "best_fitness": 1379.8070306865636,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:05:28",
+        "function": "ackley",
+        "best_fitness": 2.7578115079135412,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:10:03",
+        "function": "sphere",
+        "best_fitness": 10.861769633137627,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:10:03",
+        "function": "rastrigin",
+        "best_fitness": 108.875004512043,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:10:03",
+        "function": "rosenbrock",
+        "best_fitness": 234.6424766828461,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:10:03",
+        "function": "ackley",
+        "best_fitness": 2.7153612551484483,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:14:06",
+        "function": "sphere",
+        "best_fitness": 4.438231230891503,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:14:06",
+        "function": "rastrigin",
+        "best_fitness": 118.73809531220434,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:14:06",
+        "function": "rosenbrock",
+        "best_fitness": 537.2524017671396,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 20:14:06",
+        "function": "ackley",
+        "best_fitness": 3.7475725941839255,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:32:40",
+        "function": "sphere",
+        "best_fitness": 2.316751620361331,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:32:40",
+        "function": "rastrigin",
+        "best_fitness": 176.89603566154884,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:32:40",
+        "function": "rosenbrock",
+        "best_fitness": 702.7417581998152,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:32:40",
+        "function": "ackley",
+        "best_fitness": 2.405695606890579,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:34:00",
+        "function": "sphere",
+        "best_fitness": 4.7014924690295725,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:34:00",
+        "function": "rastrigin",
+        "best_fitness": 153.58231354694055,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:34:00",
+        "function": "rosenbrock",
+        "best_fitness": 687.8702196533078,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:34:00",
+        "function": "ackley",
+        "best_fitness": 2.6248379559729824,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:35:02",
+        "function": "sphere",
+        "best_fitness": 8.364409433812813,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:35:02",
+        "function": "rastrigin",
+        "best_fitness": 135.41216266883643,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:35:02",
+        "function": "rosenbrock",
+        "best_fitness": 1041.2137481566745,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-04-27 22:35:02",
+        "function": "ackley",
+        "best_fitness": 2.7023958778607846,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:38",
+        "function": "sphere",
+        "best_fitness": 5.1843642443076545,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:38",
+        "function": "rastrigin",
+        "best_fitness": 114.7468947307095,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:38",
+        "function": "rosenbrock",
+        "best_fitness": 491.84150272198286,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:38",
+        "function": "ackley",
+        "best_fitness": 3.152672278298319,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:45",
+        "function": "sphere",
+        "best_fitness": 8.398814469574368e-37,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:45",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:45",
+        "function": "rosenbrock",
+        "best_fitness": 1.3082332172302216e-14,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:45",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:48",
+        "function": "sphere",
+        "best_fitness": 1.0429386912746856e-10,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:48",
+        "function": "rastrigin",
+        "best_fitness": 8.368755729383196,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:48",
+        "function": "rosenbrock",
+        "best_fitness": 1.9652637241409319,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:48",
+        "function": "ackley",
+        "best_fitness": 3.753144804052866e-05,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:55",
+        "function": "sphere",
+        "best_fitness": 5.001813596566793,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:55",
+        "function": "rastrigin",
+        "best_fitness": 86.14400941485616,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:55",
+        "function": "rosenbrock",
+        "best_fitness": 1269.216276906059,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-22 13:47:55",
+        "function": "ackley",
+        "best_fitness": 3.430613286186724,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:32",
+        "function": "sphere",
+        "best_fitness": 5.776537716632776,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:32",
+        "function": "rastrigin",
+        "best_fitness": 102.16394517578303,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:32",
+        "function": "rosenbrock",
+        "best_fitness": 2856.9903560160606,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:32",
+        "function": "ackley",
+        "best_fitness": 2.5725551205624027,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:51",
+        "function": "sphere",
+        "best_fitness": 2.2250873441552953e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:51",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:51",
+        "function": "rosenbrock",
+        "best_fitness": 1.2841117670103081e-09,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:51",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:54",
+        "function": "sphere",
+        "best_fitness": 7.496421033928627e-11,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:54",
+        "function": "rastrigin",
+        "best_fitness": 8.070523674185068,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:54",
+        "function": "rosenbrock",
+        "best_fitness": 5.048288249737199,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:03:54",
+        "function": "ackley",
+        "best_fitness": 0.027763501813133917,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-22 14:04:01",
+        "function": "sphere",
+        "best_fitness": 3.2320197841478713,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:04:01",
+        "function": "rastrigin",
+        "best_fitness": 84.36467745910008,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:04:01",
+        "function": "rosenbrock",
+        "best_fitness": 992.5431667208243,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:04:01",
+        "function": "ackley",
+        "best_fitness": 2.962870635678119,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:04:16",
+        "function": "sphere",
+        "best_fitness": 10.100895692785764,
+        "w": 0.65,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:04:16",
+        "function": "rastrigin",
+        "best_fitness": 82.50061820122536,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:04:16",
+        "function": "rosenbrock",
+        "best_fitness": 386.14111617568835,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-22 14:04:16",
+        "function": "ackley",
+        "best_fitness": 2.869199404351033,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:16:00",
+        "function": "sphere",
+        "best_fitness": 4.492233715628402,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:16:00",
+        "function": "rastrigin",
+        "best_fitness": 102.37997251567361,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:16:00",
+        "function": "rosenbrock",
+        "best_fitness": 1295.9853339578965,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:16:00",
+        "function": "ackley",
+        "best_fitness": 2.9064181987489666,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:44:48",
+        "function": "sphere",
+        "best_fitness": 7.477343195061899,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:44:48",
+        "function": "rastrigin",
+        "best_fitness": 115.14283674540951,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:44:48",
+        "function": "rosenbrock",
+        "best_fitness": 517.8376631330337,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:44:48",
+        "function": "ackley",
+        "best_fitness": 3.618324080574912,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:10",
+        "function": "sphere",
+        "best_fitness": 1.1029152990444463e-36,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:10",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:10",
+        "function": "rosenbrock",
+        "best_fitness": 1.1054228127855741e-08,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:10",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:13",
+        "function": "sphere",
+        "best_fitness": 1.0135356583761846e-08,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:13",
+        "function": "rastrigin",
+        "best_fitness": 12.496868363157205,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:13",
+        "function": "rosenbrock",
+        "best_fitness": 7.674507571739711,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:13",
+        "function": "ackley",
+        "best_fitness": 0.00012961671689426524,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:24",
+        "function": "sphere",
+        "best_fitness": 10.290527780324958,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:24",
+        "function": "rastrigin",
+        "best_fitness": 171.30824027611837,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:24",
+        "function": "rosenbrock",
+        "best_fitness": 1601.4490706196875,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-23 19:45:24",
+        "function": "ackley",
+        "best_fitness": 3.5228388635292913,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:03:51",
+        "function": "sphere",
+        "best_fitness": 1.007894978026024,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:03:51",
+        "function": "rastrigin",
+        "best_fitness": 106.50740225787013,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:03:51",
+        "function": "rosenbrock",
+        "best_fitness": 723.9928380168138,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:03:51",
+        "function": "ackley",
+        "best_fitness": 3.042664930371338,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:04:24",
+        "function": "sphere",
+        "best_fitness": 7.692484110098013,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:04:24",
+        "function": "rastrigin",
+        "best_fitness": 176.25498649640673,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:04:24",
+        "function": "rosenbrock",
+        "best_fitness": 1370.7837290236293,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:04:24",
+        "function": "ackley",
+        "best_fitness": 3.4786733956313864,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:05:32",
+        "function": "sphere",
+        "best_fitness": 1.676672647422277e-56,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:05:32",
+        "function": "rastrigin",
+        "best_fitness": 1.9899190634377533,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:05:32",
+        "function": "rosenbrock",
+        "best_fitness": 1.8359679992312754,
+        "w": 0.9,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:05:32",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-24 12:06:18",
+        "function": "sphere",
+        "best_fitness": 1.4319467469613452e-59,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:06:18",
+        "function": "rastrigin",
+        "best_fitness": 0.9949591952456842,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:06:18",
+        "function": "rosenbrock",
+        "best_fitness": 1.8359684169142771,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-24 12:06:18",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:06:45",
+        "function": "sphere",
+        "best_fitness": 1.4487997786883625e-51,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:06:45",
+        "function": "rastrigin",
+        "best_fitness": 3.9798362514183623,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:06:45",
+        "function": "rosenbrock",
+        "best_fitness": 4.098271416439983,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-24 12:06:45",
+        "function": "ackley",
+        "best_fitness": 2.886579864025407e-14,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:09",
+        "function": "sphere",
+        "best_fitness": 2.038409218767744e-176,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:09",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:09",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:09",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:20",
+        "function": "sphere",
+        "best_fitness": 1.636636522679681e-51,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:20",
+        "function": "rastrigin",
+        "best_fitness": 3.979836385168227,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:20",
+        "function": "rosenbrock",
+        "best_fitness": 0.0019028237658054797,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:20",
+        "function": "ackley",
+        "best_fitness": 3.0597746558669314e-13,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:52",
+        "function": "sphere",
+        "best_fitness": 0.04177692401646128,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:52",
+        "function": "rastrigin",
+        "best_fitness": 81.36621884102308,
+        "w": 0.4,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:52",
+        "function": "rosenbrock",
+        "best_fitness": 29.81901521746664,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 3.0
+    },
+    {
+        "timestamp": "2026-05-24 12:07:52",
+        "function": "ackley",
+        "best_fitness": 1.9453880354623831,
+        "w": 0.9,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:57:47",
+        "function": "sphere",
+        "best_fitness": 1.1406389895836515e-77,
+        "w": 0.525,
+        "c1": 2.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:57:47",
+        "function": "rastrigin",
+        "best_fitness": 0.9949590821027527,
+        "w": 0.525,
+        "c1": 3.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 12:57:47",
+        "function": "rosenbrock",
+        "best_fitness": 0.28477316393495555,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 2.0
+    },
+    {
+        "timestamp": "2026-05-24 12:57:47",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.0
+    },
+    {
+        "timestamp": "2026-05-24 13:00:26",
+        "function": "sphere",
+        "best_fitness": 2.3494888024212693e-94,
+        "w": 0.525,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:00:26",
+        "function": "rastrigin",
+        "best_fitness": 2.842170943040401e-14,
+        "w": 0.525,
+        "c1": 1.375,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-24 13:00:26",
+        "function": "rosenbrock",
+        "best_fitness": 0.00028112870699482104,
+        "w": 0.525,
+        "c1": 2.5,
+        "c2": 1.375
+    },
+    {
+        "timestamp": "2026-05-24 13:00:26",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.125
+    },
+    {
+        "timestamp": "2026-05-24 13:01:08",
+        "function": "sphere",
+        "best_fitness": 3.342722839052604e-182,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:01:08",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:01:08",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:01:08",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:02:36",
+        "function": "sphere",
+        "best_fitness": 7.703001285887608e-103,
+        "w": 0.4,
+        "c1": 1.375,
+        "c2": 1.375
+    },
+    {
+        "timestamp": "2026-05-24 13:02:36",
+        "function": "rastrigin",
+        "best_fitness": 0.00018975956784572645,
+        "w": 0.775,
+        "c1": 1.75,
+        "c2": 1.375
+    },
+    {
+        "timestamp": "2026-05-24 13:02:36",
+        "function": "rosenbrock",
+        "best_fitness": 0.0077542641220770805,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-24 13:02:36",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.125
+    },
+    {
+        "timestamp": "2026-05-24 13:06:29",
+        "function": "sphere",
+        "best_fitness": 1.109073801924897e-21,
+        "w": 0.775,
+        "c1": 1.375,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:06:29",
+        "function": "rastrigin",
+        "best_fitness": 34.87302589643758,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:06:29",
+        "function": "rosenbrock",
+        "best_fitness": 1.8359785498484777,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 13:06:29",
+        "function": "ackley",
+        "best_fitness": 3.9048179489853396e-07,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:10:21",
+        "function": "sphere",
+        "best_fitness": 3.279813943560291e-103,
+        "w": 0.4,
+        "c1": 1.375,
+        "c2": 1.375
+    },
+    {
+        "timestamp": "2026-05-24 13:10:21",
+        "function": "rastrigin",
+        "best_fitness": 2.9842794901924208e-12,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 13:10:21",
+        "function": "rosenbrock",
+        "best_fitness": 0.003146625980670635,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.125
+    },
+    {
+        "timestamp": "2026-05-24 13:10:21",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.65,
+        "c1": 2.125,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:18:54",
+        "function": "sphere",
+        "best_fitness": 2.5729318022987506e-40,
+        "w": 0.4,
+        "c1": 2.0,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-05-24 18:18:54",
+        "function": "rastrigin",
+        "best_fitness": 3.1668958775642437,
+        "w": 0.65,
+        "c1": 2.0,
+        "c2": 1.5
+    },
+    {
+        "timestamp": "2026-05-24 18:18:54",
+        "function": "rosenbrock",
+        "best_fitness": 1.0539704671300747,
+        "w": 0.65,
+        "c1": 2.0,
+        "c2": 2.0
+    },
+    {
+        "timestamp": "2026-05-24 18:18:54",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.5,
+        "c2": 2.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:08",
+        "function": "sphere",
+        "best_fitness": 1.1456443806378491e-35,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:08",
+        "function": "rastrigin",
+        "best_fitness": 2.9852528965058127,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:20:08",
+        "function": "rosenbrock",
+        "best_fitness": 2.8242780579414393,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:20:08",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:28",
+        "function": "sphere",
+        "best_fitness": 7.113184964208548e-37,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:28",
+        "function": "rastrigin",
+        "best_fitness": 1.9909431617448803,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:28",
+        "function": "rosenbrock",
+        "best_fitness": 0.40980052302604897,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:28",
+        "function": "ackley",
+        "best_fitness": 7.549516567451064e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:20:43",
+        "function": "sphere",
+        "best_fitness": 1.3869793716409709e-108,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:43",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:43",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:20:43",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:52",
+        "function": "sphere",
+        "best_fitness": 5.6646049054113e-37,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:20:52",
+        "function": "rastrigin",
+        "best_fitness": 1.9939826007176578,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:20:52",
+        "function": "rosenbrock",
+        "best_fitness": 1.137617368288743,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:20:52",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:21:15",
+        "function": "sphere",
+        "best_fitness": 1.0251829345895067e-05,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:21:15",
+        "function": "rastrigin",
+        "best_fitness": 55.032310409307144,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:21:15",
+        "function": "rosenbrock",
+        "best_fitness": 27.29413925967097,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:21:15",
+        "function": "ackley",
+        "best_fitness": 0.005349168548342664,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:32:37",
+        "function": "sphere",
+        "best_fitness": 2.8799357642881637e-60,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:32:37",
+        "function": "rastrigin",
+        "best_fitness": 0.9949590587641666,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-24 18:32:37",
+        "function": "rosenbrock",
+        "best_fitness": 0.10706249444599808,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:32:37",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:33:48",
+        "function": "sphere",
+        "best_fitness": 2.922415616427039e-60,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:33:48",
+        "function": "rastrigin",
+        "best_fitness": 2.984890007731323,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:33:48",
+        "function": "rosenbrock",
+        "best_fitness": 0.12046016452157518,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-24 18:33:48",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-24 18:34:19",
+        "function": "sphere",
+        "best_fitness": 2.9524662318236875e-177,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:34:19",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:34:19",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:34:19",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:34:33",
+        "function": "sphere",
+        "best_fitness": 2.5798540697476005e-61,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:34:33",
+        "function": "rastrigin",
+        "best_fitness": 1.9899181141889102,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-24 18:34:33",
+        "function": "rosenbrock",
+        "best_fitness": 0.1377568918803937,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-24 18:34:33",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-24 18:35:09",
+        "function": "sphere",
+        "best_fitness": 6.21659368569339e-11,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:35:09",
+        "function": "rastrigin",
+        "best_fitness": 71.21140248964724,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-24 18:35:09",
+        "function": "rosenbrock",
+        "best_fitness": 10.662269080283068,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-24 18:35:09",
+        "function": "ackley",
+        "best_fitness": 0.0011439941257731512,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:19:18",
+        "function": "sphere",
+        "best_fitness": 2.313978478116869e-177,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:19:18",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:19:18",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:19:18",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:19:34",
+        "function": "sphere",
+        "best_fitness": 2.5305211599038865e-60,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:19:34",
+        "function": "rastrigin",
+        "best_fitness": 1.989918114188228,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:19:34",
+        "function": "rosenbrock",
+        "best_fitness": 0.35989521086958454,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:19:34",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:20:15",
+        "function": "sphere",
+        "best_fitness": 3.2530559217229063e-11,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:20:15",
+        "function": "rastrigin",
+        "best_fitness": 41.35020336366932,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:20:15",
+        "function": "rosenbrock",
+        "best_fitness": 27.8809105294069,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:20:15",
+        "function": "ackley",
+        "best_fitness": 0.0007987120686050453,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:20:33",
+        "function": "sphere",
+        "best_fitness": 8.74623315871727e-179,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:20:33",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:20:33",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:20:33",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:20:48",
+        "function": "sphere",
+        "best_fitness": 1.0575052790005768e-60,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:20:48",
+        "function": "rastrigin",
+        "best_fitness": 1.9899181356874607,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:20:48",
+        "function": "rosenbrock",
+        "best_fitness": 0.01629798424617255,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:20:48",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:21:31",
+        "function": "sphere",
+        "best_fitness": 1.2452639058320013e-10,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:21:31",
+        "function": "rastrigin",
+        "best_fitness": 48.96407603744913,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:21:31",
+        "function": "rosenbrock",
+        "best_fitness": 22.609310026392112,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:21:31",
+        "function": "ackley",
+        "best_fitness": 0.011193937017968114,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:24:14",
+        "function": "sphere",
+        "best_fitness": 1.2443161139382484e-177,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:24:14",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:24:14",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:24:14",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:24:31",
+        "function": "sphere",
+        "best_fitness": 2.268603673678463e-61,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:24:31",
+        "function": "rastrigin",
+        "best_fitness": 0.9949591574912375,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:24:31",
+        "function": "rosenbrock",
+        "best_fitness": 0.015255691087275355,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:24:31",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:25:15",
+        "function": "sphere",
+        "best_fitness": 1.860757907293141e-10,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:25:15",
+        "function": "rastrigin",
+        "best_fitness": 46.50997190645282,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:25:15",
+        "function": "rosenbrock",
+        "best_fitness": 5.172630678761827,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:25:15",
+        "function": "ackley",
+        "best_fitness": 6.111465738145583e-05,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:25:45",
+        "function": "sphere",
+        "best_fitness": 1.178976511952797e-176,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:25:45",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:25:45",
+        "function": "rosenbrock",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:25:45",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:26:02",
+        "function": "sphere",
+        "best_fitness": 1.5657776637591616e-60,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:26:02",
+        "function": "rastrigin",
+        "best_fitness": 2.984879335695638,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:26:02",
+        "function": "rosenbrock",
+        "best_fitness": 0.513364286456981,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:26:02",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:26:43",
+        "function": "sphere",
+        "best_fitness": 1.1069238683485203e-10,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:26:43",
+        "function": "rastrigin",
+        "best_fitness": 40.52659575253381,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:26:43",
+        "function": "rosenbrock",
+        "best_fitness": 25.834826839689303,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:26:43",
+        "function": "ackley",
+        "best_fitness": 0.0006691274633614519,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:31:55",
+        "function": "sphere",
+        "best_fitness": 5.281569852554008e-59,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:31:55",
+        "function": "rastrigin",
+        "best_fitness": 1.9900060506602983,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:31:55",
+        "function": "rosenbrock",
+        "best_fitness": 0.02066821520062926,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:31:55",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:33:05",
+        "function": "sphere",
+        "best_fitness": 2.868761729440343e-60,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:33:05",
+        "function": "rastrigin",
+        "best_fitness": 0.9949607693790199,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:33:05",
+        "function": "rosenbrock",
+        "best_fitness": 0.0843209205802379,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:33:05",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:33:51",
+        "function": "sphere",
+        "best_fitness": 3.179396926101824e-59,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:33:51",
+        "function": "rastrigin",
+        "best_fitness": 2.9848771712798907,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:33:51",
+        "function": "rosenbrock",
+        "best_fitness": 0.9012591083179562,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:33:51",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:34:38",
+        "function": "sphere",
+        "best_fitness": 6.905135737650902e-59,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:34:38",
+        "function": "rastrigin",
+        "best_fitness": 1.9899350630439727,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:34:38",
+        "function": "rosenbrock",
+        "best_fitness": 0.028537185772765438,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:34:38",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:35:02",
+        "function": "sphere",
+        "best_fitness": 7.351132139957352e-62,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:35:02",
+        "function": "rastrigin",
+        "best_fitness": 2.984878813597902,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:35:02",
+        "function": "rosenbrock",
+        "best_fitness": 0.6807330129280745,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:35:02",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:35:26",
+        "function": "sphere",
+        "best_fitness": 3.832111457143582e-64,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:35:26",
+        "function": "rastrigin",
+        "best_fitness": 1.9899186207070159,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:35:26",
+        "function": "rosenbrock",
+        "best_fitness": 1.548465260071613,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:35:26",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:36:17",
+        "function": "sphere",
+        "best_fitness": 3.208548192658667e-62,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:36:17",
+        "function": "rastrigin",
+        "best_fitness": 2.9848771712813544,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:36:17",
+        "function": "rosenbrock",
+        "best_fitness": 0.32141006792785176,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:36:17",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:41:29",
+        "function": "sphere",
+        "best_fitness": 3.727310031799375e-61,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:41:29",
+        "function": "rastrigin",
+        "best_fitness": 0.26219807783395765,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:41:29",
+        "function": "rosenbrock",
+        "best_fitness": 0.0005111065606526939,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:41:29",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:42:53",
+        "function": "sphere",
+        "best_fitness": 4.277062867681055e-61,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:42:53",
+        "function": "rastrigin",
+        "best_fitness": 2.9848771712798907,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:42:53",
+        "function": "rosenbrock",
+        "best_fitness": 3.1584345398030065,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:42:53",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:43:31",
+        "function": "sphere",
+        "best_fitness": 2.2294666046899345e-35,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:43:31",
+        "function": "rastrigin",
+        "best_fitness": 2.985424792473765,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:43:31",
+        "function": "rosenbrock",
+        "best_fitness": 1.5337255215038759,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:43:31",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:43:58",
+        "function": "sphere",
+        "best_fitness": 2.8917538525021248e-36,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:43:58",
+        "function": "rastrigin",
+        "best_fitness": 2.9986469140204832,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:43:58",
+        "function": "rosenbrock",
+        "best_fitness": 0.001160624180623946,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:43:58",
+        "function": "ackley",
+        "best_fitness": 7.549516567451064e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:44:12",
+        "function": "sphere",
+        "best_fitness": 6.759410807790638e-37,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:44:12",
+        "function": "rastrigin",
+        "best_fitness": 1.9899258280858731,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:44:12",
+        "function": "rosenbrock",
+        "best_fitness": 0.00031257957432238756,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:44:12",
+        "function": "ackley",
+        "best_fitness": 7.549516567451064e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:49:28",
+        "function": "sphere",
+        "best_fitness": 9.89265712164081e-37,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:49:28",
+        "function": "rastrigin",
+        "best_fitness": 4.974796598893988,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:49:28",
+        "function": "rosenbrock",
+        "best_fitness": 1.152576402902548,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:49:28",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:49:57",
+        "function": "sphere",
+        "best_fitness": 9.516721297773651e-36,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:49:57",
+        "function": "rastrigin",
+        "best_fitness": 1.990118356705338,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:49:57",
+        "function": "rosenbrock",
+        "best_fitness": 1.835967925618955,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:49:57",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:50:09",
+        "function": "sphere",
+        "best_fitness": 4.851222256900121e-109,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:50:09",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:50:09",
+        "function": "rosenbrock",
+        "best_fitness": 1.1093356479670479e-29,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:50:09",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:50:19",
+        "function": "sphere",
+        "best_fitness": 2.6314261203742957e-37,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:50:19",
+        "function": "rastrigin",
+        "best_fitness": 3.979836233628447,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:50:19",
+        "function": "rosenbrock",
+        "best_fitness": 0.96802218189805,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:50:19",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:50:47",
+        "function": "sphere",
+        "best_fitness": 1.0859254368712256e-05,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:50:47",
+        "function": "rastrigin",
+        "best_fitness": 75.2097396384356,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:50:47",
+        "function": "rosenbrock",
+        "best_fitness": 49.65210509929834,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:50:47",
+        "function": "ackley",
+        "best_fitness": 0.017325170175880533,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:51:14",
+        "function": "sphere",
+        "best_fitness": 1.5944376054255421e-108,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:51:14",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:51:14",
+        "function": "rosenbrock",
+        "best_fitness": 1.0869552938143404e-22,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:51:14",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:51:35",
+        "function": "sphere",
+        "best_fitness": 4.1379693089289467e-35,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:51:35",
+        "function": "rastrigin",
+        "best_fitness": 3.980123380324784,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:51:35",
+        "function": "rosenbrock",
+        "best_fitness": 0.050230742509102456,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:51:35",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:52:30",
+        "function": "sphere",
+        "best_fitness": 2.18039793652208e-05,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:52:30",
+        "function": "rastrigin",
+        "best_fitness": 46.12394459516079,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:52:30",
+        "function": "rosenbrock",
+        "best_fitness": 27.930824022180065,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:52:30",
+        "function": "ackley",
+        "best_fitness": 0.017389306474044464,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:53:13",
+        "function": "sphere",
+        "best_fitness": 7.088483047852448e-108,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:53:13",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:53:13",
+        "function": "rosenbrock",
+        "best_fitness": 2.885732077388983e-26,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:53:13",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:53:23",
+        "function": "sphere",
+        "best_fitness": 1.9016017990409848e-35,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:53:23",
+        "function": "rastrigin",
+        "best_fitness": 1.9899318920162585,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:53:23",
+        "function": "rosenbrock",
+        "best_fitness": 0.6440351552217332,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:53:23",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:53:50",
+        "function": "sphere",
+        "best_fitness": 2.529924119063561e-06,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:53:50",
+        "function": "rastrigin",
+        "best_fitness": 49.9786307648111,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:53:50",
+        "function": "rosenbrock",
+        "best_fitness": 77.54819919395126,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:53:50",
+        "function": "ackley",
+        "best_fitness": 0.969901810327269,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:55:26",
+        "function": "sphere",
+        "best_fitness": 1.1600112675395084e-107,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:55:26",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:55:26",
+        "function": "rosenbrock",
+        "best_fitness": 1.4805440076801102e-27,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:55:26",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:55:37",
+        "function": "sphere",
+        "best_fitness": 8.035794905834622e-37,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:55:37",
+        "function": "rastrigin",
+        "best_fitness": 1.9899181438805442,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:55:37",
+        "function": "rosenbrock",
+        "best_fitness": 1.0407187325028766,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:55:37",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:56:04",
+        "function": "sphere",
+        "best_fitness": 7.193752548923754e-06,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:56:04",
+        "function": "rastrigin",
+        "best_fitness": 31.00301203705584,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:56:04",
+        "function": "rosenbrock",
+        "best_fitness": 76.94176719956941,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:56:04",
+        "function": "ackley",
+        "best_fitness": 0.0017414405968776414,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:56:38",
+        "function": "sphere",
+        "best_fitness": 6.968252671739408e-110,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:56:38",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:56:38",
+        "function": "rosenbrock",
+        "best_fitness": 4.437342591868191e-31,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:56:38",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:56:48",
+        "function": "sphere",
+        "best_fitness": 6.638956674437083e-37,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:56:48",
+        "function": "rastrigin",
+        "best_fitness": 2.0868161059402865,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:56:48",
+        "function": "rosenbrock",
+        "best_fitness": 2.086805735039234,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:56:48",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 10:57:12",
+        "function": "sphere",
+        "best_fitness": 5.835107981449047e-06,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:57:12",
+        "function": "rastrigin",
+        "best_fitness": 66.88124823953802,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 10:57:12",
+        "function": "rosenbrock",
+        "best_fitness": 22.625636285402386,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 10:57:12",
+        "function": "ackley",
+        "best_fitness": 0.005877398107874132,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:03:49",
+        "function": "sphere",
+        "best_fitness": 6.018235308270945e-109,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:03:49",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 11:03:49",
+        "function": "rosenbrock",
+        "best_fitness": 1.0395959110402611e-22,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 11:03:49",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:03:54",
+        "function": "sphere",
+        "best_fitness": 5.659084256305908e-35,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:03:54",
+        "function": "rastrigin",
+        "best_fitness": 1.9926814310233567,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 11:03:54",
+        "function": "rosenbrock",
+        "best_fitness": 1.8359679249713754,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:03:54",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:04:07",
+        "function": "sphere",
+        "best_fitness": 1.0474116225228306e-05,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:04:07",
+        "function": "rastrigin",
+        "best_fitness": 60.076032531667835,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:04:07",
+        "function": "rosenbrock",
+        "best_fitness": 26.825400191974207,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 11:04:07",
+        "function": "ackley",
+        "best_fitness": 0.010824176974967958,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 12:56:38",
+        "function": "sphere",
+        "best_fitness": 2.724662087002135e-37,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 12:56:38",
+        "function": "rastrigin",
+        "best_fitness": 2.006502180292742,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 12:56:38",
+        "function": "rosenbrock",
+        "best_fitness": 1.3134099821837735,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 12:56:38",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:11:37",
+        "function": "sphere",
+        "best_fitness": 9.149565684367953e-63,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:11:37",
+        "function": "rastrigin",
+        "best_fitness": 2.9848771979657727,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 13:11:37",
+        "function": "rosenbrock",
+        "best_fitness": 0.23663469397792408,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 13:11:37",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 13:12:21",
+        "function": "sphere",
+        "best_fitness": 1.5915650127608187e-148,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:12:21",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:12:21",
+        "function": "rosenbrock",
+        "best_fitness": 0.0012535666529933766,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:12:21",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:12:35",
+        "function": "sphere",
+        "best_fitness": 7.331002049779008e-89,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:12:35",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:12:35",
+        "function": "rosenbrock",
+        "best_fitness": 0.1901690803124332,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:12:35",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:12:58",
+        "function": "sphere",
+        "best_fitness": 5.200372169601239e-53,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:12:58",
+        "function": "rastrigin",
+        "best_fitness": 2.379501059805733,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 13:12:58",
+        "function": "rosenbrock",
+        "best_fitness": 0.13770141760527022,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:12:58",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:13:33",
+        "function": "sphere",
+        "best_fitness": 4.454145949001228e-39,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:13:33",
+        "function": "rastrigin",
+        "best_fitness": 2.6223673996864534,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:13:33",
+        "function": "rosenbrock",
+        "best_fitness": 0.15157940545491666,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:13:33",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:14:26",
+        "function": "sphere",
+        "best_fitness": 2.0912452053123033e-36,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:14:26",
+        "function": "rastrigin",
+        "best_fitness": 3.9798583065449833,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:14:26",
+        "function": "rosenbrock",
+        "best_fitness": 0.2153176341419839,
+        "w": 0.4,
+        "c1": 2.5,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:14:26",
+        "function": "ackley",
+        "best_fitness": 7.549516567451064e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:22:48",
+        "function": "sphere",
+        "best_fitness": 7.579330158347053e-109,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:22:48",
+        "function": "rastrigin",
+        "best_fitness": 0.0,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:22:48",
+        "function": "rosenbrock",
+        "best_fitness": 4.871659823998935e-27,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:22:48",
+        "function": "ackley",
+        "best_fitness": 4.440892098500626e-16,
+        "w": 0.4,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:22:54",
+        "function": "sphere",
+        "best_fitness": 1.4013748186306763e-36,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:22:54",
+        "function": "rastrigin",
+        "best_fitness": 2.99708054876875,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:22:54",
+        "function": "rosenbrock",
+        "best_fitness": 1.3957877967448549,
+        "w": 0.65,
+        "c1": 1.0,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:22:54",
+        "function": "ackley",
+        "best_fitness": 3.9968028886505635e-15,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:23:20",
+        "function": "sphere",
+        "best_fitness": 1.0876788216476159e-05,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:23:20",
+        "function": "rastrigin",
+        "best_fitness": 82.24773928803373,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:23:20",
+        "function": "rosenbrock",
+        "best_fitness": 20.154238553467497,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:23:20",
+        "function": "ackley",
+        "best_fitness": 0.003326557380266326,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:31:16",
+        "function": "sphere",
+        "best_fitness": 1.448136601207222e-35,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 1.75
+    },
+    {
+        "timestamp": "2026-05-25 13:31:16",
+        "function": "rastrigin",
+        "best_fitness": 1.9899182323333804,
+        "w": 0.65,
+        "c1": 2.5,
+        "c2": 1.0
+    },
+    {
+        "timestamp": "2026-05-25 13:31:16",
+        "function": "rosenbrock",
+        "best_fitness": 0.1212044138233668,
+        "w": 0.4,
+        "c1": 1.75,
+        "c2": 2.5
+    },
+    {
+        "timestamp": "2026-05-25 13:31:16",
+        "function": "ackley",
+        "best_fitness": 7.549516567451064e-15,
+        "w": 0.65,
+        "c1": 1.75,
+        "c2": 1.0
+    }
+]

@@ -1,8 +1,14 @@
+"""
+@file        pso.py
+@author      Lucía Parreño Legorburo
+@brief       Base of the PSO optimizer where it initializes and has an optimization method to find 
+                the global best and evaluate individual particles
+"""
+
 from src.core.swarm import Swarm
 
 Bounds = list[tuple[float, float]]
 Vector = list[float]
-
 
 class PSO:
     def __init__(
