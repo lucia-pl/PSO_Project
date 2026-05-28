@@ -1,6 +1,7 @@
 # PSO - Parallel & Concurrent Programming
 
 Implementation of Particle Swarm Optimization (PSO) in Python to compare parallel and concurrent programming strategies and their efficiency in different scenarios. This project includes grid-search, result persistence, visualization and a use case using a real-world scenario.
+Repository: https://github.com/lucia-pl/PSO_Project.git
 
 ---
 
@@ -100,7 +101,7 @@ The objective functions are simple and based on a given list of floats and a ret
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
+git clone https://github.com/lucia-pl/PSO_Project.git
 cd PSO_ProgramacionParalela
 
 # 2. Create and activate virtual environment
